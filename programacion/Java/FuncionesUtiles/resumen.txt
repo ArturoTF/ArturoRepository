@@ -1,0 +1,2 @@
+Funciones utiles en Java.
+1. Funcion que pone "Saliendo" y escribe 5 puntos (.), 1 cada 1 segundo
